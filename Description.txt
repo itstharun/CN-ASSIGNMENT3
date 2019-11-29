@@ -1,0 +1,14 @@
+
+IMG1 CMD1 and WS1.png files correspond to the linux commands , Command prompt from Windows,Wireshark Screenshots.
+IMG2 CMD2 and WS2 correspond to the same. 
+
+Challenges Faced:  Limited time in the Hectic Student Schedule.
+ Undersatanding the options of IPTABLE such as the limits.
+ Couldnt practically verify what is supposed to have happend from the limited knowledge gained through reading articles on IPtables.
+coulnot verify practically the diffrence between INPUT and OUTPUT chains.
+                   
+                   
+references:
+The assignment details documents.
+www.frozentux.net/iptables-tutorial
+
